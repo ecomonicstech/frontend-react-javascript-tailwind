@@ -1,1 +1,1 @@
-# frontend-react-javascript-tailwind
+# frontend-react-next-typescript-tailwind
